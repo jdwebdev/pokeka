@@ -6,6 +6,9 @@
     color: black;
     font-family: Arial, Helvetica, sans-serif;
 }
+#main_main {
+    position: relative;
+}
 
 :root {
     --yellow-light: rgb(255,203,2);
@@ -15,6 +18,21 @@
     --red: rgb(239,70,59);
     --red-dark: rgb(201, 60, 50);
     --gray: rgb(93,93,95);
+}
+
+#red_part {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    top: 0px;
+    border-radius: 50px 50px 0 0;
+    background-color: var(--red);
+    width: 369px;
+    height: 425px;
+    padding-top: 10px;
+    border-bottom: 3px solid var(--gray);
+    z-index: 1;
 }
 h1 {
     margin-bottom: 25px;
@@ -26,18 +44,106 @@ h1 {
     text-shadow: var(--blue-dark) 1px 1px;
     box-shadow: var(--blue-dark) 0px 2px 1px;
 }
-main {
+#header_container {
+    display: flex;
+    position: absolute;
+}
+#white_header0 {
+    background-color: white;
+    width: 49px;
+    height: 53px;
+    z-index: 8;
+}
+#white_header {
+    background-color: white;
+    width: 276px;
+    height: 53px;
+    z-index: 3;
+    border-bottom: 3px solid black;
+}
+#white_header1 {
+    background-color: white;
+    width: 50px;
+    height: 53px;
+    z-index: 8;
+}
+#main {
     height: 600px;
     width: 375px;
-    margin: 40px auto;
     display: flex;
     flex-direction: column;
     align-items: center;
     padding-top: 15px;
-    background-color: var(--red);
+    background-color: rgb(50,50,50);
     border-radius: 50px;
     border: 3px solid black;
-    position: relative;
+    position: absolute;
+    top: 50px;
+    color: white;
+}
+#listing {
+    margin-top: 70px;
+    width: 250px;
+    height: 330px;
+    overflow-y: scroll;
+}
+#listing li {
+    color: white;
+    font-size: 16px;
+}
+
+#top_corner_left {
+    width: 50px;
+    height: 50px;
+    background-color: var(--red);
+    position: absolute;
+    left:-3px;
+    top: -3px;
+    z-index: 10;
+    border-left: 3px solid black;
+    border-top: 3px solid black;
+    border-radius: 50px 0 0 0 ;
+}
+#top_corner_left_bg {
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    position: absolute;
+    left:-3px;
+    top: -3px;
+    z-index: 9;
+}
+
+#top_corner_right {
+    width: 50px;
+    height: 50px;
+    background-color: var(--red);
+    position: absolute;
+    right:-3px;
+    top: -3px;
+    z-index: 10;
+    border-right: 3px solid black;
+    border-top: 3px solid black;
+    border-radius: 0 50px 0 0 ;
+}
+#top_corner_right_bg {
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    position: absolute;
+    right:-3px;
+    top: -3px;
+    z-index: 9;
+}
+
+
+.open {
+    transform: translate(0px, -370px); 
+    transition-duration: 500ms;     
+}
+.close {
+    transform: translate(0px, -0px); 
+    transition-duration: 500ms;
 }
 
 ul {
@@ -102,6 +208,7 @@ button#v {
     border-radius: 50px;
     border: 3px solid var(--gray);
     padding: 9px;
+    z-index:2;
 }
 .maru_btn div {
     width: 25px;
@@ -109,6 +216,20 @@ button#v {
     background-color: white;
     border-radius: 50px;
     border: 3px solid var(--gray);
+    z-index:2;
+}
+
+.maru_btn:hover {
+    cursor: pointer;
+}
+
+.black_part {
+    background-color: black;
+    width: 370px;
+    height: 10px;
+    position: absolute;
+    bottom: 160px;
+    margin-top: 10px;
 }
 
 #result_container {
@@ -125,7 +246,6 @@ button#v {
     padding-bottom: 5px;
     border-radius: 0 0 50px 50px;
     border: 3px solid black;
-    border-top: 3px solid var(--gray);
     height: 175px;
 }
 #result {

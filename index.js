@@ -22,6 +22,13 @@ function createPokemon(pFile) {
         //?                ID,FR,        JP,        OWN
         test = new Pokemon((i+1), row[i][0], row[i][1], row[i][2]);
     }
+
+    let listing = id("listing");
+    let innerHTML = "";
+    Pokemon.list.forEach(p => {
+        if (!p.own) innerHTML += `<li>${p.id} - ${p.fr} ${p.jp}</li>`;
+    });
+    listing.innerHTML = innerHTML;
 }
 
 class Pokemon {
@@ -35,6 +42,15 @@ class Pokemon {
     }
 }
 
+let main = id("main");
+main.style.left = ((window.innerWidth / 2) - (main.offsetWidth/2)) + "px";
+let headerContainer = id("header_container");
+headerContainer.style.left = ((window.innerWidth / 2) - (headerContainer.offsetWidth/2)) + "px";
+let redPart = id("red_part");
+let blackPart = id("black_part");
+let bOpen = false;
+
+
 let toSearch = "";
 let inputs = [];
 let resultContainer = id("result_container");
@@ -45,6 +61,7 @@ for (let i = 0; i < 10; i++) {
     let newBtn = id(i);
     newBtn.addEventListener("click", e => {
         e.preventDefault();
+        if (bOpen) return;
         if (toSearch === "" && i === 0) return;
         if (toSearch.length < 4) toSearch += ""+i;
         fillInputs();
@@ -53,19 +70,13 @@ for (let i = 0; i < 10; i++) {
 let xBtn = id("x");
 xBtn.addEventListener("click", e => {
     e.preventDefault();
-    toSearch = "";
-    for (let i = 0; i < 4; i++) {
-        inputs[i].innerHTML = "-";
-    }
-    resultContainer.innerHTML = `
-        <div id="result" class="standby"></div>
-        <div class="pokename"></div>
-        <div class="pokename"></div>
-    `;
+    if (bOpen) return;
+    resetInputs();
 });
 let vBtn = id("v");
 vBtn.addEventListener("click", e => {
     e.preventDefault();
+    if (bOpen) return;
     search();
 });
 
@@ -88,4 +99,38 @@ function search() {
             `;
         }
     });
+}
+
+function resetInputs() {
+    toSearch = "";
+    for (let i = 0; i < 4; i++) {
+        inputs[i].innerHTML = "-";
+    }
+    resultContainer.innerHTML = `
+        <div id="result" class="standby"></div>
+        <div class="pokename"></div>
+        <div class="pokename"></div>
+    `;
+}
+
+let maruBtn = id("maru_btn")
+maruBtn.addEventListener("click", e => {
+    open();
+});
+function open() {
+    bOpen = !bOpen;
+    resetInputs();
+    let result = id("result");
+    if (bOpen) {
+        redPart.classList.remove("close");
+        maruBtn.classList.remove("close");
+        redPart.classList.add("open");
+        maruBtn.classList.add("open");
+        result.innerHTML = "リスト";
+    } else {
+        redPart.classList.remove("open");
+        maruBtn.classList.remove("open");
+        redPart.classList.add("close");
+        maruBtn.classList.add("close");
+    }
 }

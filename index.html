@@ -7,45 +7,59 @@
     <link rel="stylesheet" href="./style.css">
 </head>
 <body>
-    <main>
-        <h1>ポケカー</h1>
-        <div class="number">
-            <div id="input_4">-</div>
-            <div id="input_3">-</div>
-            <div id="input_2">-</div>
-            <div id="input_1">-</div>
+    <div id="main_main">
+        <div id="header_container">
+            <div id="white_header0"></div>
+            <div id="white_header"></div>
+            <div id="white_header1"></div>
         </div>
-        <ul class="keyboard">
-            <li>
-                <button id="1">1</button>
-                <button id="2">2</button>
-                <button id="3">3</button>
-            </li>
-            <li>
-                <button id="4">4</button>
-                <button id="5">5</button>
-                <button id="6">6</button>
-            </li>
-            <li>
-                <button id="7">7</button>
-                <button id="8">8</button>
-                <button id="9">9</button>
-            </li>
-            <li>
-                <button id="x">×</button>
-                <button id="0">0</button>
-                <button id="v">✓</button>
-            </li>
-        </ul>
-        <div id="result_container">
-            <div id="result" class="standby"></div>
-            <div class="pokename"></div>
-            <div class="pokename"></div>
+        <div id="main">
+            <ul id="listing"></ul>
+            <div id="top_corner_left"></div>
+            <div id="top_corner_left_bg"></div>
+            <div id="top_corner_right"></div>
+            <div id="top_corner_right_bg"></div>
+            <div id="red_part">
+                <h1>ポケカー</h1>
+                <div class="number">
+                    <div id="input_4">-</div>
+                    <div id="input_3">-</div>
+                    <div id="input_2">-</div>
+                    <div id="input_1">-</div>
+                </div>
+                <ul class="keyboard">
+                    <li>
+                        <button id="1">1</button>
+                        <button id="2">2</button>
+                        <button id="3">3</button>
+                    </li>
+                    <li>
+                        <button id="4">4</button>
+                        <button id="5">5</button>
+                        <button id="6">6</button>
+                    </li>
+                    <li>
+                        <button id="7">7</button>
+                        <button id="8">8</button>
+                        <button id="9">9</button>
+                    </li>
+                    <li>
+                        <button id="x">×</button>
+                        <button id="0">0</button>
+                        <button id="v">✓</button>
+                    </li>
+                </ul>
+            </div>
+            <div id="result_container">
+                <div id="result" class="standby"></div>
+                <div class="pokename"></div>
+                <div class="pokename"></div>
+            </div>
+            <div id="maru_btn" class="maru_btn">
+                <div></div>
+            </div>
         </div>
-        <div class="maru_btn">
-            <div></div>
-        </div>
-    </main>
+    </div>
 </body>
 
 <script src="./utils.js"></script>
