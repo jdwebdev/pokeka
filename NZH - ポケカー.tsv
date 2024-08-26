@@ -42,11 +42,11 @@ Nosferapti	ズバット
 Nosferalto	ゴルバット	
 Mystherbe	ナゾノクサ	
 Ortide	クサイハナ	
-Rafflesia	ラフレシア	—
+Rafflesia	ラフレシア	
 Paras	パラス	
 Parasect	パラセクト	
 Mimitoss	コンパン	
-Aéromite	モルフォン	-
+Aéromite	モルフォン	
 Taupiqueur	ディグダ	
 Triopikeur	ダグトリオ	
 Miaouss	ニャース	
@@ -68,14 +68,14 @@ Machopeur	ゴーリキー
 Mackogneur	カイリキー	
 Chétiflor	マダツボミ	
 Boustiflor	ウツドン	
-Empiflor	ウツボット	—
+Empiflor	ウツボット	
 Tentacool	メノクラゲ	
 Tentacruel	ドククラゲ	
 Racaillou	イシツブテ	
 Gravalanch	ゴローン	
 Grolem	ゴローニャ	
 Ponyta	ポニータ	
-Galopa	ギャロップ	-
+Galopa	ギャロップ	
 Ramoloss	ヤドン	
 Flagadoss	ヤドラン	
 Magnéti	コイル	
@@ -120,8 +120,8 @@ Poissoroy	アズマオウ
 Stari	ヒトデマン	
 Staross	スターミー	
 M.Mime 	バリヤード	
-Insécateur	ストライク	—
-Lippoutou	ルージュラ	—
+Insécateur	ストライク	
+Lippoutou	ルージュラ	
 Élektek	エレブー	
 Magmar	ブーバー	
 Scarabrute	カイロス	
@@ -166,7 +166,7 @@ Coxy	レディバ
 Coxyclaque	レディアン	
 Mimigal	イトマル	
 Migalos	アリアドス	
-Nostenfer	クロバット	-
+Nostenfer	クロバット	
 Loupio	チョンチー	
 Lanturn	ランターン	
 Pichu	ピチュー	-
@@ -221,7 +221,7 @@ Marcacrin	ウリムー
 Cochignon	イノムー	
 Corayon	サニーゴ	
 Rémoraid	テッポウオ	
-Octillery	オクタン	-
+Octillery	オクタン	
 Cadoizo	デリバード	
 Démanta	マンタイン	
 Airmure	エアームド	
@@ -264,7 +264,7 @@ Zigzaton	ジグザグマ
 Linéon	マッスグマ	
 Chenipotte	ケムッソ	
 Armulys	カラサリス	
-Charmillon	アゲハント	-
+Charmillon	アゲハント	
 Blindalys	マユルド	-
 Papinox	ドクケイル	-
 Nénupiot	ハスボー	
@@ -272,7 +272,7 @@ Lombre	ハスブレロ
 Ludicolo	ルンパッパ	
 Grainipiot	タネボー	
 Pifeuil	コノハナ	
-Tengalice	ダーテング	-
+Tengalice	ダーテング	
 Nirondelle	スバメ	
 Hélédelle	オオスバメ	
 Goélise	キャモメ	
@@ -314,7 +314,7 @@ Muciole	バルビート	-
 Lumivole	イルミーゼ	-
 Rosélia	ロゼリア	
 Gloupti	ゴクリン	-
-Avaltout	マルノーム	-
+Avaltout	マルノーム	
 Carvanha	キバニア	
 Sharpedo	サメハダー	
 Wailmer	ホエルコ	
@@ -333,14 +333,14 @@ Cacturne	ノクタス
 Tylton	チルット	
 Altaria	チルタリス	
 Mangriff	ザングース	
-Séviper	ハブネーク	-
+Séviper	ハブネーク	
 Séléroc	ルナトーン	
 Solaroc	ソルロック	
 Barloche	ドジョッチ	
 Barbicha	ナマズン	
 Écrapince	ヘイガニ	
 Colhomard	シザリガー	-
-Balbuto	ヤジロン	-
+Balbuto	ヤジロン	
 Kaorine	ネンドール	
 Lilia	リリーラ	-
 Vacilys	ユレイドル	-
@@ -355,8 +355,8 @@ Branette	ジュペッタ
 Skelénox	ヨマワル	
 Téraclope	サマヨール	
 Tropius	トロピウス	
-Éoko	チリーン	-
-Absol	アブソル	-
+Éoko	チリーン	
+Absol	アブソル	
 Okéoké	ソーナノ	-
 Stalgamin	ユキワラシ	
 Oniglali	オニゴーリ	
@@ -379,7 +379,7 @@ Regice	レジアイス
 Registeel	レジスチル	
 Latias	ラティアス	-
 Latios	ラティオス	
-Kyogre	カイオーガ	-
+Kyogre	カイオーガ	
 Groudon	グラードン	
 Rayquaza	レックウザ	
 Jirachi	ジラーチ	-
@@ -514,8 +514,8 @@ Flamajou	バオップ
 Flamoutan	バオッキー	
 Flotajou	ヒヤップ	
 Flotoutan	ヒヤッキー	
-Munna	ムンナ	-
-Mushana	ムシャーナ	-
+Munna	ムンナ	
+Mushana	ムシャーナ	
 Poichigeon	マメパト	-
 Colombeau	ハトーボー	-
 Déflaisan	ケンホロウ	-
@@ -574,9 +574,9 @@ Pashmilla	チラチーノ	-
 Scrutella	ゴチム	
 Mesmérella	ゴチミル	
 Sidérella	ゴチルゼル	-
-Nucléososis	ユニラン	-
-Méios	ダブラン	-
-Symbios	ランクルス	-
+Nucléososis	ユニラン	
+Méios	ダブラン	
+Symbios	ランクルス	
 Couaneton	コアルヒー	-
 Lakmécygne	スワンナ	-
 Sorbébé	バニプッチ	
@@ -602,8 +602,8 @@ Cliticlic	ギギギアル	-
 Anchwatt	シビシラス	
 Lampéroie	シビビール	
 Ohmassacre	シビルドン	
-Lewsor	リグレー	-
-Neitram	オーベム	-
+Lewsor	リグレー	
+Neitram	オーベム	
 Funécire	ヒトモシ	
 Mélancolux	ランプラー	
 Lugulabre	シャンデラ	
@@ -644,9 +644,9 @@ Reshiram	レシラム	-
 Zekrom	ゼクロム	
 Démétéros	ランドロス	
 Kyurem	キュレム	
-Keldeo	ケルディオ	-
-Meloetta	メロエッタ	-
-Genesect	ゲノセクト	-
+Keldeo	ケルディオ	
+Meloetta	メロエッタ	
+Genesect	ゲノセクト	
 Marisson	ハリマロン	-
 Boguérisse	ハリボーグ	-
 Blindépique	ブリガロン	-
@@ -681,8 +681,8 @@ Dimoclès	ニダンギル
 Exagide	ギルガルド	-
 Fluvetin	シュシュプ	
 Cocotine	フレフワン	-
-Sucroquin	ペロッパフ	-
-Cupcanaille	ペロリーム	-
+Sucroquin	ペロッパフ	
+Cupcanaille	ペロリーム	
 Sepiatop	マーイーカ	
 Sepiatroce	カラマネロ	
 Opermine	カメテテ	
@@ -708,7 +708,7 @@ Trousselin	クレッフィ
 Brocélôme	ボクレー	
 Desséliande	オーロット	
 Pitrouille	バケッチャ	
-Banshitrouye	パンプジン	-
+Banshitrouye	パンプジン	
 Grelaçon	カチコール	
 Séracrawl	クレベース	
 Sonistrelle	オンバット	
@@ -765,7 +765,7 @@ Guérilande	キュワワー
 Gouroutan	ヤレユータン	
 Quartermac	ナゲツケサル	
 Sovkipou	コソクムシ	
-Sarmuraï	グソクムシャ	-
+Sarmuraï	グソクムシャ	
 Bacabouh	スナバァ	
 Trépassable	シロデスナ	
 Concombaffe	ナマコブシ	
@@ -784,7 +784,7 @@ Bébécaille	ジャラコ
 Ékaïser	ジャラランガ	
 Tokorico	カプ・コケコ	
 Tokopiyon	カプ・テテフ	
-Tokotoro	カプ・ブルル	-
+Tokotoro	カプ・ブルル	
 Tokopisco	カプ・レヒレ	
 Cosmog	コスモッグ	
 Cosmovum	コスモウム	
@@ -809,7 +809,7 @@ Meltan	メルタン
 Melmetal	メルメタル	
 Ouistempo	サルノリ	
 Badabouin	バチンキー	
-Gorythmic	ゴリランダー	-
+Gorythmic	ゴリランダー	
 Flambino	ヒバニー	-
 Lapyro	ラビフット	-
 Pyrobut	エースバーン	-
@@ -838,7 +838,7 @@ Charbi	タンドン	-
 Wagomine	トロッゴン	-
 Monthracite	セキタンザン	-
 Verpom	カジッチュ	
-Pomdrapi	アップリュー	-
+Pomdrapi	アップリュー	
 Dratatin	タルップル	
 Dunaja	スナヘビ	-
 Dunaconda	サダイジャ	-
@@ -851,10 +851,10 @@ Grillepattes	ヤクデ
 Scolocendre	マルヤクデ	
 Poulpaf	タタッコ	-
 Krakos	オトスパス	-
-Théffroi	ヤバチャ	-
-Polthégeist	ポットデス	-
-Bibichut	ミブリム	-
-Chapotus	テブリム	-
+Théffroi	ヤバチャ	
+Polthégeist	ポットデス	
+Bibichut	ミブリム	
+Chapotus	テブリム	
 Sorcilence	ブリムオン	-
 Grimalin	ベロバー	-
 Fourbelin	ギモー	-
@@ -865,12 +865,12 @@ Corayôme	サニゴーン	-
 Palarticho	ネギガナイト	-
 M. Glaquette 	バリコオル	-
 Tutétékri	デスバーン	-
-Crèmy	マホミル	-
-Charmilly	マホイップ	-
+Crèmy	マホミル	
+Charmilly	マホイップ	
 Hexadron	タイレーツ	-
 Wattapik	バチンウニ	-
 Frissonille	ユキハミ	
-Beldeneige	モスノウ	-
+Beldeneige	モスノウ	
 Dolman	イシヘンジン	-
 Bekaglaçon	コオリッポ	
 Wimessir	イエッサン	-
@@ -879,21 +879,21 @@ Charibari	ゾウドウ
 Pachyradjah	ダイオウドウ	-
 Galvagon	パッチラゴン	-
 Galvagla	パッチルドン	-
-Hydragon	ウオノラゴン	-
+Hydragon	ウオノラゴン	
 Hydragla	ウオチルドン	-
 Duralugon	ジュラルドン	-
-Fantyrm	ドラメシヤ	-
-Dispareptil	ドロンチ	-
-Lanssorien	ドラパルト	-
+Fantyrm	ドラメシヤ	
+Dispareptil	ドロンチ	
+Lanssorien	ドラパルト	
 Zacian	ザシアン	-
 Zamazenta	ザマゼンタ	-
 Éthernatos	ムゲンダイナ	-
 Wushours	ダクマ	-
-Shifours	ウーラオス	-
+Shifours	ウーラオス	
 Zarude	ザルード	-
 Regieleki	レジエレキ	-
 Regidrago	レジドラゴ	-
-Blizzeval	ブリザポス	-
+Blizzeval	ブリザポス	
 Spectreval	レイスポス	-
 Sylveroy	バドレックス	-
 Cerbyllin	アヤシシ	-
@@ -921,8 +921,8 @@ Gambex	エクスレッグ	-
 Pohm	パモ	-
 Pohmotte	パモット	-
 Pohmarmotte	パーモット	-
-Compagnol	ワッカネズミ	-
-Famignol	イッカネズミ	-
+Compagnol	ワッカネズミ	
+Famignol	イッカネズミ	
 Pâtachiot	パピモッチ	-
 Briochien	バウッツェル	-
 Olivini	ミニーブ	-
@@ -964,11 +964,11 @@ Dofin	ナミイルカ	-
 Superdofin	イルカマン	-
 Vrombi	ブロロン	-
 Vrombotor	ブロロローム	-
-Motorizard	モトトカゲ	-
+Motorizard	モトトカゲ	
 Ferdeter	ミミズズ	-
 Germéclat	キラーメ	-
 Floréclat	キラフロル	-
-Toutombe	ボチ	-
+Toutombe	ボチ	
 Tomberro	ハカドッグ	-
 Flamenroule	カラミンゴ	-
 Piétacé	アルクジラ	-
@@ -993,7 +993,7 @@ Paume-de-Fer	テツノカイナ	-
 Têtes-de-Fer	テツノコウベ	-
 Mite-de-Fer	テツノドクガ	-
 Épine-de-Fer	テツノイバラ	-
-Frigodo	セビエ	-
+Frigodo	セビエ	
 Cryodo	セゴール	-
 Glaivodo	セグレイブ	-
 Mordudor	コレクレー	-

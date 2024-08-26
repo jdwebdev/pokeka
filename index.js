@@ -11,7 +11,7 @@ function readFile(pFile) {
             }
         }
     }
-    rawFile.send(null); 
+    rawFile.send(null);
 }
 
 function createPokemon(pFile) {
@@ -25,14 +25,48 @@ function createPokemon(pFile) {
 
     let listing = id("listing");
     let innerHTML = "";
+    let i = 0;
+    let tabGens = [
+        {own: 0, nb: 151, idMax: 151,  bDone: false},
+        {own: 0, nb: 100, idMax: 251,  bDone: false},
+        {own: 0, nb: 135, idMax: 386,  bDone: false},
+        {own: 0, nb: 107, idMax: 493,  bDone: false},
+        {own: 0, nb: 156, idMax: 649,  bDone: false},
+        {own: 0, nb: 72,  idMax: 721,  bDone: false},
+        {own: 0, nb: 88,  idMax: 809,  bDone: false},
+        {own: 0, nb: 96,  idMax: 905,  bDone: false},
+        {own: 0, nb: 120, idMax: 1025, bDone: false}
+    ];
+    
+    //? 0 151 251 386 493 649 721 809 905 1025
     Pokemon.list.forEach(p => {
-        if (!p.own) innerHTML += `<li>${p.id} - ${p.fr} ${p.jp}</li>`;
+        if (p.id <= tabGens[i].idMax && !tabGens[i].bDone) {
+            tabGens[i].bDone = true;
+            innerHTML += `<li id="gen_${(i+1)}">---------- ${(i+1)} ---------- </li>`;
+        } else if (p.id > tabGens[i].idMax && tabGens[i].bDone) {
+            i++;
+            tabGens[i].bDone = true;
+            innerHTML += `<li id="gen_${(i+1)}">---------- ${(i+1)} ---------- </li>`;
+        }
+        if (!p.own) {
+            innerHTML += `<li>${p.id} - ${p.fr} ${p.jp}</li>`;
+        } else {
+            Pokemon.nb++;
+            tabGens[i].own++;
+        }
     });
+
     listing.innerHTML = innerHTML;
+
+    for (let j = 0; j < tabGens.length; j++) {
+        let li = id("gen_"+(j+1));
+        li.innerHTML += `(${tabGens[j].own} / ${tabGens[j].nb})`;
+    }
 }
 
 class Pokemon {
     static list = [];
+    static nb = 0;
     constructor(id, fr, jp, own) {
         this.id = id;
         this.fr = fr;
@@ -126,7 +160,7 @@ function open() {
         maruBtn.classList.remove("close");
         redPart.classList.add("open");
         maruBtn.classList.add("open");
-        result.innerHTML = "リスト";
+        result.innerHTML = "" + Pokemon.nb + "/" + Pokemon.list.length + "　";
     } else {
         redPart.classList.remove("open");
         maruBtn.classList.remove("open");
