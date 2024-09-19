@@ -160,7 +160,8 @@ function open() {
         maruBtn.classList.remove("close");
         redPart.classList.add("open");
         maruBtn.classList.add("open");
-        result.innerHTML = "" + Pokemon.nb + "/" + Pokemon.list.length + "　";
+        result.classList.add("paddingTop");
+        result.innerHTML = "" + Pokemon.nb + "/" + Pokemon.list.length + "";
     } else {
         redPart.classList.remove("open");
         maruBtn.classList.remove("open");
