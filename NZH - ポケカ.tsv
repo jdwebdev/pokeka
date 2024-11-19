@@ -172,8 +172,8 @@ Lanturn	ランターン
 Pichu	ピチュー	-	
 Mélo	ピィ		
 Toudoudou	ププリン		
-Togepi	トゲピー	-	
-Togetic	トゲチック	-	
+Togepi	トゲピー		
+Togetic	トゲチック		
 Natu	ネイティ		
 Xatu	ネイティオ		
 Wattouat	メリープ		
@@ -248,7 +248,7 @@ Ymphect	サナギラス
 Tyranocif	バンギラス		
 Lugia	ルギア		
 Ho-Oh	ホウオウ		
-Celebi	セレビィ	-	
+Celebi	セレビィ		
 Arcko	キモリ		3
 Massko	ジュプトル		
 Jungko	ジュカイン		
@@ -259,7 +259,7 @@ Gobou	ミズゴロウ
 Flobio	ヌマクロー		
 Laggron	ラグラージ		
 Medhyèna	ポチエナ		
-Grahyèna	グラエナ	-	
+Grahyèna	グラエナ		
 Zigzaton	ジグザグマ		
 Linéon	マッスグマ		
 Chenipotte	ケムッソ		
@@ -279,7 +279,7 @@ Goélise	キャモメ
 Bekipan	ペリッパー	-	
 Tarsal	ラルトス		
 Kirlia	キルリア		
-Gardevoir	サーナイト	-	
+Gardevoir	サーナイト		
 Arakdo	アメタマ		
 Maskadra	アメモース		
 Balignon	キノココ		
@@ -303,9 +303,9 @@ Ténéfix	ヤミラミ
 Mysdibule	クチート		
 Galekid	ココドラ		
 Galegon	コドラ		
-Galeking	ボスゴドラ	-	
+Galeking	ボスゴドラ		
 Méditikka	アサナン		
-Charmina	チャーレム	-	
+Charmina	チャーレム		
 Dynavolt	ラクライ		
 Élecsprint	ライボルト		
 Posipi	プラスル		
@@ -529,7 +529,7 @@ Rhinolove	ココロモリ	-
 Rototaupe	モグリュー		
 Minotaupe	ドリュウズ		
 Nanméouïe	タブンネ	-	
-Charpenti	ドッコラー	-	
+Charpenti	ドッコラー		
 Ouvrifier	ドテッコツ	-	
 Bétochef	ローブシン	-	
 Tritonde	オタマロ		
@@ -578,12 +578,12 @@ Nucléososis	ユニラン
 Méios	ダブラン		
 Symbios	ランクルス		
 Couaneton	コアルヒー		
-Lakmécygne	スワンナ	-	
+Lakmécygne	スワンナ		
 Sorbébé	バニプッチ		
 Sorboul	バニリッチ		
 Sorbouboul	バイバニラ		
 Vivaldaim	シキジカ		
-Haydaim	メブキジカ	-	
+Haydaim	メブキジカ		
 Emolga	エモンガ		
 Carabing	カブルモ		
 Lançargot	シュバルゴ	-	
@@ -640,7 +640,7 @@ Terrakium	テラキオン
 Viridium	ビリジオン		
 Boréas	トルネロス		
 Fulguris	ボルトロス		
-Reshiram	レシラム	-	
+Reshiram	レシラム		
 Zekrom	ゼクロム		
 Démétéros	ランドロス		
 Kyurem	キュレム		
@@ -747,7 +747,7 @@ Froussardine	ヨワシ
 Vorastérie	ヒドイデ		
 Prédastérie	ドヒドイデ	-	
 Tiboudet	ドロバンコ		
-Bourrinos	バンバドロ	-	
+Bourrinos	バンバドロ		
 Araqua	シズクモ		
 Tarenbulle	オニシズクモ		
 Mimantis	カリキリ		
@@ -770,7 +770,7 @@ Bacabouh	スナバァ
 Trépassable	シロデスナ		
 Concombaffe	ナマコブシ		
 Type:0	タイプ：ヌル		
-Silvallié	シルヴァディ	-	
+Silvallié	シルヴァディ		
 Météno	メテノ	-	
 Dodoala	ネッコアラ		
 Boumata	バクガメス		
@@ -820,7 +820,7 @@ Rongourmand	ホシガリス	-
 Rongrigou	ヨクバリス	-	
 Minisange	ココガラ	-	
 Bleuseille	アオガラス	-	
-Corvaillus	アーマーガア	-	
+Corvaillus	アーマーガア		
 Larvadar	サッチムシ		
 Coléodôme	レドームシ	-	
 Astronelle	イオルブ	-	
@@ -834,9 +834,9 @@ Khélocrok	カムカメ
 Torgamord	カジリガメ	-	
 Voltoutou	ワンパチ	-	
 Fulgudog	パルスワン	-	
-Charbi	タンドン	-	
-Wagomine	トロッゴン	-	
-Monthracite	セキタンザン	-	
+Charbi	タンドン		
+Wagomine	トロッゴン		
+Monthracite	セキタンザン		
 Verpom	カジッチュ		
 Pomdrapi	アップリュー		
 Dratatin	タルップル		
@@ -849,7 +849,7 @@ Toxizap	エレズン	-
 Salarsen	ストリンダー		
 Grillepattes	ヤクデ		
 Scolocendre	マルヤクデ		
-Poulpaf	タタッコ	-	
+Poulpaf	タタッコ		
 Krakos	オトスパス		
 Théffroi	ヤバチャ		
 Polthégeist	ポットデス		
@@ -861,22 +861,22 @@ Fourbelin	ギモー	-
 Angoliath	オーロンゲ	-	
 Ixon	タチフサグマ	-	
 Berserkatt	ニャイキング	-	
-Corayôme	サニゴーン	-	
+Corayôme	サニゴーン		
 Palarticho	ネギガナイト	-	
 M. Glaquette 	バリコオル	-	
 Tutétékri	デスバーン	-	
 Crèmy	マホミル		
 Charmilly	マホイップ		
-Hexadron	タイレーツ	-	
+Hexadron	タイレーツ		
 Wattapik	バチンウニ	-	
 Frissonille	ユキハミ		
 Beldeneige	モスノウ		
 Dolman	イシヘンジン	-	
 Bekaglaçon	コオリッポ		
-Wimessir	イエッサン	-	
+Wimessir	イエッサン		
 Morpeko	モルペコ		
 Charibari	ゾウドウ		
-Pachyradjah	ダイオウドウ	-	
+Pachyradjah	ダイオウドウ		
 Galvagon	パッチラゴン	-	
 Galvagla	パッチルドン	-	
 Hydragon	ウオノラゴン		
@@ -886,7 +886,7 @@ Fantyrm	ドラメシヤ
 Dispareptil	ドロンチ		
 Lanssorien	ドラパルト		
 Zacian	ザシアン	-	
-Zamazenta	ザマゼンタ	-	
+Zamazenta	ザマゼンタ		
 Éthernatos	ムゲンダイナ	-	
 Wushours	ダクマ	-	
 Shifours	ウーラオス		
@@ -895,10 +895,10 @@ Regieleki	レジエレキ	-
 Regidrago	レジドラゴ	-	
 Blizzeval	ブリザポス		
 Spectreval	レイスポス	-	
-Sylveroy	バドレックス	-	
+Sylveroy	バドレックス	—	
 Cerbyllin	アヤシシ	-	
 Hachécateur	バサギリ	-	
-Ursaking	ガチグマ	-	
+Ursaking	ガチグマ		
 Paragruel	イダイトウ	-	
 Farfurex	オオニューラ	-	
 Qwilpik	ハリーマン		
@@ -906,11 +906,11 @@ Amovénus	ラブトロス	-
 Poussacha	ニャオハ	-	9
 Matourgeon	ニャローテ	-	
 Miascarade	マスカーニャ	-	
-Chochodile	ホゲータ	-	
-Crocogril	アチゲータ	-	
+Chochodile	ホゲータ		
+Crocogril	アチゲータ		
 Flâmigator	ラウドボーン	-	
-Coiffeton	クワッス	-	
-Canarbello	ウェルカモ	-	
+Coiffeton	クワッス		
+Canarbello	ウェルカモ		
 Palmaval	ウェーニバル	-	
 Gourmelet	グルトン	-	
 Fragroin	パフュートン	-	
@@ -932,51 +932,51 @@ Tapatoès	イキリンコ	-
 Selutin	コジオ	-	
 Amassel	ジオヅム	-	
 Gigansel	キョジオーン	-	
-Charbambin	カルボウ	-	
+Charbambin	カルボウ		
 Carmadura	グレンアルマ	-	
-Malvalame	ソウブレイズ	-	
-Têtampoule	ズピカ	-	
-Ampibidou	ハラバリー	-	
-Zapétrel	カイデン	-	
-Fulgulairo	タイカイデン	-	
+Malvalame	ソウブレイズ		
+Têtampoule	ズピカ		
+Ampibidou	ハラバリー		
+Zapétrel	カイデン		
+Fulgulairo	タイカイデン		
 Grondogue	オラチフ	-	
 Dogrino	マフィティフ	-	
-Gribouraigne	シルシュルー	-	
-Tag-Tag	タギングル	-	
-Virovent	アノクサ	-	
+Gribouraigne	シルシュルー		
+Tag-Tag	タギングル		
+Virovent	アノクサ		
 Virevorreur	アノホラグサ	-	
 Terracool	ノノクラゲ	-	
 Terracruel	リククラゲ	-	
 Craparoi	ガケガニ	-	
-Pimito	カプサイジ	-	
+Pimito	カプサイジ		
 Scovilain	スコヴィラン	-	
-Léboulérou	シガロコ	-	
+Léboulérou	シガロコ		
 Bérasca	ベラカス	-	
 Flotillon	ヒラヒナ	-	
-Cléopsytra	クエスパトラ	-	
+Cléopsytra	クエスパトラ		
 Forgerette	カヌチャン	-	
 Forgella	ナカヌチャン	-	
 Forgelina	デカヌチャン	-	
-Taupikeau	ウミディグダ	-	
+Taupikeau	ウミディグダ		
 Triopikeau	ウミトリオ	-	
 Lestombaile	オトシドリ	-	
-Dofin	ナミイルカ	-	
-Superdofin	イルカマン	-	
-Vrombi	ブロロン	-	
+Dofin	ナミイルカ		
+Superdofin	イルカマン		
+Vrombi	ブロロン		
 Vrombotor	ブロロローム	-	
 Motorizard	モトトカゲ		
 Ferdeter	ミミズズ	-	
-Germéclat	キラーメ	-	
-Floréclat	キラフロル	-	
+Germéclat	キラーメ		
+Floréclat	キラフロル		
 Toutombe	ボチ		
 Tomberro	ハカドッグ	-	
 Flamenroule	カラミンゴ	-	
-Piétacé	アルクジラ	-	
-Balbalèze	ハルクジラ	-	
+Piétacé	アルクジラ		
+Balbalèze	ハルクジラ		
 Délestin	ミガルーサ	-	
 Oyacata	ヘイラッシャ	-	
 Nigirigon	シャリタツ	-	
-Courrousinge	コノヨザル	-	
+Courrousinge	コノヨザル		
 Terraiste	ドオー	-	
 Farigiraf	リキキリン	-	
 Deusolourdo	ノココッチ	-	
@@ -984,11 +984,11 @@ Scalpereur	ドドゲザン	-
 Fort-Ivoire	イダイナキバ	-	
 Hurle-Queue	サケブシッポ	-	
 Fongus-Furie	アラブルタケ	-	
-Flotte-Mèche	ハバタクカミ	-	
+Flotte-Mèche	ハバタクカミ		
 Rampe-Ailes	チヲハウハネ	-	
 Pelage-Sablé	スナノケガワ	-	
 Roue-de-Fer	テツノワダチ	-	
-Hotte-de-Fer	テツノツツミ	-	
+Hotte-de-Fer	テツノツツミ		
 Paume-de-Fer	テツノカイナ	-	
 Têtes-de-Fer	テツノコウベ	-	
 Mite-de-Fer	テツノドクガ	-	
@@ -997,18 +997,18 @@ Frigodo	セビエ
 Cryodo	セゴール	-	
 Glaivodo	セグレイブ	-	
 Mordudor	コレクレー	-	
-Gromago	サーフゴー	-	
-Chongjian	チオンジェン	-	
+Gromago	サーフゴー		
+Chongjian	チオンジェン		
 Baojian	パオジアン	-	
 Dinglu	ディンルー	-	
 Yuyu	イーユイ	-	
 Rugit-Lune	トドロクツキ	-	
 Garde-de-Fer	テツノブジン	-	
 Koraidon	コライドン	-	
-Miraidon	ミライドン	-	
+Miraidon	ミライドン		
 Serpente-Eau	ウネルミナモ	-	
 Vert-de-Fer	テツノイサハ	-	
-Pomdramour	カミッチュ	-	
+Pomdramour	カミッチュ		
 Poltchageist	チャデス		
 Théffroyable	ヤバソチャ	-	
 Félicanis	イイネイヌ	-	

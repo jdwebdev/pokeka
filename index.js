@@ -1,4 +1,4 @@
-readFile("./NZH - ポケカー.tsv");
+readFile("./NZH - ポケカ.tsv");
 
 function readFile(pFile) {
     let rawFile = new XMLHttpRequest();
