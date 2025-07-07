@@ -19,8 +19,8 @@ function createPokemon(pFile) {
     let test;
     for (let i = 0; i < row.length; i++) {
         row[i] = row[i].split('\t');
-        //?                ID,FR,        JP,        OWN
-        test = new Pokemon((i+1), row[i][0], row[i][1], row[i][2]);
+        //?                ID,    FR,        JP,        OWN,       IMG
+        test = new Pokemon((i+1), row[i][0], row[i][1], row[i][2], row[i][4]);
     }
 
     let listing = id("listing");
@@ -49,7 +49,11 @@ function createPokemon(pFile) {
             innerHTML += `<li id="gen_${(i+1)}">---------- ${(i+1)} ---------- </li>`;
         }
         if (!p.own) {
-            innerHTML += `<li>${p.id} - ${p.fr} ${p.jp}</li>`;
+			if (p.img !== "") {
+				innerHTML += `<li><img class="pok_img" src="${p.img}">${p.id} - ${p.fr} ${p.jp}</li>`;
+			} else {
+				innerHTML += `<li>${p.id} - ${p.fr} ${p.jp}</li>`;
+			}
         } else {
             Pokemon.nb++;
             tabGens[i].own++;
@@ -67,11 +71,12 @@ function createPokemon(pFile) {
 class Pokemon {
     static list = [];
     static nb = 0;
-    constructor(id, fr, jp, own) {
+    constructor(id, fr, jp, own, img) {
         this.id = id;
         this.fr = fr;
         this.jp = jp;
         this.own = !own;
+		this.img = img;
         Pokemon.list.push(this);
     }
 }
