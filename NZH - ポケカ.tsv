@@ -345,7 +345,7 @@ Kaorine	ネンドール
 Lilia	リリーラ							
 Vacilys	ユレイドル	-		https://www.pokepedia.fr/images/thumb/e/ea/Vacilys-RS.png/250px-Vacilys-RS.png				
 Anorith	アノプス							
-Armaldo	アーマルド	-		https://www.pokepedia.fr/images/thumb/0/0c/Armaldo-RS.png/250px-Armaldo-RS.png				
+Armaldo	アーマルド							
 Barpau	ヒンバス							
 Milobellus	ミロカロス							
 Morphéo	ポワルン							
@@ -530,8 +530,8 @@ Rototaupe	モグリュー
 Minotaupe	ドリュウズ							
 Nanméouïe	タブンネ	-		https://www.pokepedia.fr/images/thumb/4/4c/Nanm%C3%A9ou%C3%AFe-NB.png/250px-Nanm%C3%A9ou%C3%AFe-NB.png				
 Charpenti	ドッコラー							
-Ouvrifier	ドテッコツ	-		https://www.pokepedia.fr/images/thumb/e/e6/Ouvrifier-NB.png/250px-Ouvrifier-NB.png				
-Bétochef	ローブシン	-		https://www.pokepedia.fr/images/thumb/4/4d/B%C3%A9tochef-NB.png/250px-B%C3%A9tochef-NB.png				
+Ouvrifier	ドテッコツ							
+Bétochef	ローブシン							
 Tritonde	オタマロ							
 Batracné	ガマガル							
 Crapustule	ガマゲロゲ							
@@ -573,7 +573,7 @@ Chinchidou	チラーミィ
 Pashmilla	チラチーノ							
 Scrutella	ゴチム							
 Mesmérella	ゴチミル							
-Sidérella	ゴチルゼル	-		https://www.pokepedia.fr/images/thumb/5/52/Sid%C3%A9rella-NB.png/250px-Sid%C3%A9rella-NB.png				
+Sidérella	ゴチルゼル							
 Nucléososis	ユニラン							
 Méios	ダブラン							
 Symbios	ランクルス							
@@ -598,7 +598,7 @@ Grindur	テッシード
 Noacier	ナットレイ	-		https://www.pokepedia.fr/images/thumb/c/c1/Noacier-NB.png/250px-Noacier-NB.png				
 Tic	ギアル							
 Clic	ギギアル							
-Cliticlic	ギギギアル	-		https://www.pokepedia.fr/images/thumb/a/a2/Cliticlic-NB.png/250px-Cliticlic-NB.png				
+Cliticlic	ギギギアル							
 Anchwatt	シビシラス							
 Lampéroie	シビビール							
 Ohmassacre	シビルドン							
@@ -652,7 +652,7 @@ Boguérisse	ハリボーグ	-		https://www.pokepedia.fr/images/thumb/5/5d/Bogu%C
 Blindépique	ブリガロン	-		https://www.pokepedia.fr/images/thumb/e/eb/Blind%C3%A9pique-XY.png/250px-Blind%C3%A9pique-XY.png				
 Feunnec	フォッコ							
 Roussil	テールナー							
-Goupelin	マフォクシー	-		https://www.pokepedia.fr/images/thumb/f/fd/Goupelin-XY.png/250px-Goupelin-XY.png				
+Goupelin	マフォクシー							
 Grenousse	ケロマツ							
 Croâporal	ゲコガシラ							
 Amphinobi	ゲッコウガ							
@@ -680,7 +680,7 @@ Monorpale	ヒトツキ
 Dimoclès	ニダンギル							
 Exagide	ギルガルド							
 Fluvetin	シュシュプ							
-Cocotine	フレフワン	-		https://www.pokepedia.fr/images/thumb/b/bd/Cocotine-XY.png/250px-Cocotine-XY.png				
+Cocotine	フレフワン							
 Sucroquin	ペロッパフ							
 Cupcanaille	ペロリーム							
 Sepiatop	マーイーカ							
@@ -713,7 +713,7 @@ Grelaçon	カチコール
 Séracrawl	クレベース							
 Sonistrelle	オンバット							
 Bruyverne	オンバーン							
-Xerneas	ゼルネアス	-		https://www.pokepedia.fr/images/thumb/b/bb/Xerneas_%28Mode_D%C3%A9cha%C3%AEn%C3%A9%29-XY.png/250px-Xerneas_%28Mode_D%C3%A9cha%C3%AEn%C3%A9%29-XY.png				
+Xerneas	ゼルネアス							
 Yveltal	イベルタル							
 Zygarde	ジガルデ							
 Diancie	ディアンシー							
@@ -745,7 +745,7 @@ Rocabot	イワンコ
 Lougaroc	ルガルガン							
 Froussardine	ヨワシ							
 Vorastérie	ヒドイデ							
-Prédastérie	ドヒドイデ	-		https://www.pokepedia.fr/images/thumb/4/49/Pr%C3%A9dast%C3%A9rie-SL.png/250px-Pr%C3%A9dast%C3%A9rie-SL.png				
+Prédastérie	ドヒドイデ							
 Tiboudet	ドロバンコ							
 Bourrinos	バンバドロ							
 Araqua	シズクモ							
@@ -818,8 +818,8 @@ Arrozard	ジメレオン	-		https://www.pokepedia.fr/images/thumb/e/ee/Arrozard-
 Lézargus	インテレオン	-		https://www.pokepedia.fr/images/thumb/2/22/L%C3%A9zargus-EB.png/250px-L%C3%A9zargus-EB.png				
 Rongourmand	ホシガリス				DECK			
 Rongrigou	ヨクバリス							
-Minisange	ココガラ	-		https://www.pokepedia.fr/images/thumb/7/77/Minisange-EB.png/250px-Minisange-EB.png				
-Bleuseille	アオガラス	-		https://www.pokepedia.fr/images/thumb/b/ba/Bleuseille-EB.png/250px-Bleuseille-EB.png				
+Minisange	ココガラ							
+Bleuseille	アオガラス							
 Corvaillus	アーマーガア							
 Larvadar	サッチムシ							
 Coléodôme	レドームシ							
@@ -840,8 +840,8 @@ Monthracite	セキタンザン
 Verpom	カジッチュ							
 Pomdrapi	アップリュー							
 Dratatin	タルップル							
-Dunaja	スナヘビ	-		https://www.pokepedia.fr/images/thumb/d/dd/Dunaja-EB.png/250px-Dunaja-EB.png				
-Dunaconda	サダイジャ	-		https://www.pokepedia.fr/images/thumb/6/67/Dunaconda-EB.png/250px-Dunaconda-EB.png				
+Dunaja	スナヘビ							
+Dunaconda	サダイジャ							
 Nigosier	ウッウ							
 Embrochet	サシカマス	-		https://www.pokepedia.fr/images/thumb/2/20/Embrochet-EB.png/250px-Embrochet-EB.png				
 Hastacuda	カマスジョー	-		https://www.pokepedia.fr/images/thumb/8/8e/Hastacuda-EB.png/250px-Hastacuda-EB.png				
@@ -860,7 +860,7 @@ Grimalin	ベロバー
 Fourbelin	ギモー							
 Angoliath	オーロンゲ				DECK			
 Ixon	タチフサグマ	-		https://www.pokepedia.fr/images/thumb/8/82/Ixon-EB.png/250px-Ixon-EB.png				
-Berserkatt	ニャイキング	-		https://www.pokepedia.fr/images/thumb/e/e1/Berserkatt-EB.png/250px-Berserkatt-EB.png				
+Berserkatt	ニャイキング							
 Corayôme	サニゴーン							
 Palarticho	ネギガナイト	-		https://www.pokepedia.fr/images/thumb/a/a8/Palarticho-EB.png/250px-Palarticho-EB.png				
 M. Glaquette 	バリコオル	-		https://www.pokepedia.fr/images/thumb/c/c0/M._Glaquette-EB.png/250px-M._Glaquette-EB.png				
@@ -890,7 +890,7 @@ Zamazenta	ザマゼンタ
 Éthernatos	ムゲンダイナ							
 Wushours	ダクマ	-		https://www.pokepedia.fr/images/thumb/2/29/Wushours-EB.png/250px-Wushours-EB.png				
 Shifours	ウーラオス							
-Zarude	ザルード	-		https://www.pokepedia.fr/images/thumb/1/17/Zarude-EB.png/250px-Zarude-EB.png				
+Zarude	ザルード							
 Regieleki	レジエレキ							
 Regidrago	レジドラゴ							
 Blizzeval	ブリザポス							
@@ -915,7 +915,7 @@ Palmaval	ウェーニバル
 Gourmelet	グルトン							
 Fragroin	パフュートン							
 Tissenboule	タマンチュラ							
-Filentrappe	ワナイダー	-		https://www.pokepedia.fr/images/thumb/1/14/Filentrappe-EV.png/250px-Filentrappe-EV.png				
+Filentrappe	ワナイダー							
 Lilliterelle	マメバッタ							
 Gambex	エクスレッグ				DECK			
 Pohm	パモ							
@@ -947,7 +947,7 @@ Virovent	アノクサ
 Virevorreur	アノホラグサ	-		https://www.pokepedia.fr/images/thumb/3/34/Virevorreur-EV.png/250px-Virevorreur-EV.png				
 Terracool	ノノクラゲ							
 Terracruel	リククラゲ							
-Craparoi	ガケガニ	-		https://www.pokepedia.fr/images/thumb/5/59/Craparoi-EV.png/250px-Craparoi-EV.png				
+Craparoi	ガケガニ							
 Pimito	カプサイジ							
 Scovilain	スコヴィラン							
 Léboulérou	シガロコ							
@@ -979,18 +979,18 @@ Nigirigon	シャリタツ
 Courrousinge	コノヨザル							
 Terraiste	ドオー							
 Farigiraf	リキキリン							
-Deusolourdo	ノココッチ	-		https://www.pokepedia.fr/images/thumb/6/62/Deusolourdo_%28Forme_Double%29-EV.png/250px-Deusolourdo_%28Forme_Double%29-EV.png				
+Deusolourdo	ノココッチ							
 Scalpereur	ドドゲザン	-		https://www.pokepedia.fr/images/thumb/f/f3/Scalpereur-EV.png/250px-Scalpereur-EV.png				
 Fort-Ivoire	イダイナキバ							
 Hurle-Queue	サケブシッポ							
-Fongus-Furie	アラブルタケ	-		https://www.pokepedia.fr/images/thumb/3/3b/Fongus-Furie-EV.png/250px-Fongus-Furie-EV.png				
+Fongus-Furie	アラブルタケ							
 Flotte-Mèche	ハバタクカミ							
 Rampe-Ailes	チヲハウハネ							
 Pelage-Sablé	スナノケガワ							
 Roue-de-Fer	テツノワダチ							
 Hotte-de-Fer	テツノツツミ							
 Paume-de-Fer	テツノカイナ							
-Têtes-de-Fer	テツノコウベ	-		https://www.pokepedia.fr/images/thumb/0/03/T%C3%AAtes-de-Fer-EV.png/250px-T%C3%AAtes-de-Fer-EV.png				
+Têtes-de-Fer	テツノコウベ							
 Mite-de-Fer	テツノドクガ	-		https://www.pokepedia.fr/images/thumb/4/4d/Mite-de-Fer-EV.png/250px-Mite-de-Fer-EV.png				
 Épine-de-Fer	テツノイバラ							
 Frigodo	セビエ							
