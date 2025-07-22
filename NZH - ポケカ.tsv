@@ -287,8 +287,8 @@ Chapignon	キノガッサ
 Parecool	ナマケロ							
 Vigoroth	ヤルキモノ							
 Monaflèmit	ケッキング							
-Ningale	ツチニン	-		https://www.pokepedia.fr/images/thumb/f/f6/Ningale-RS.png/250px-Ningale-RS.png				
-Ninjask	テッカニン	-		https://www.pokepedia.fr/images/thumb/7/74/Ninjask-RS.png/250px-Ninjask-RS.png				
+Ningale	ツチニン							
+Ninjask	テッカニン							
 Munja	ヌケニン							
 Chuchmur	ゴニョニョ							
 Ramboum	ドゴーム							
@@ -363,8 +363,8 @@ Oniglali	オニゴーリ
 Obalie	タマザラシ							
 Phogleur	トドグラー							
 Kaimorse	トドゼルガ	-		https://www.pokepedia.fr/images/thumb/8/8a/Kaimorse-RS.png/250px-Kaimorse-RS.png				
-Coquiperl	パールル	-		https://www.pokepedia.fr/images/thumb/c/c7/Coquiperl-RS.png/250px-Coquiperl-RS.png				
-Serpang	ハンテール	-		https://www.pokepedia.fr/images/thumb/d/d0/Serpang-RS.png/250px-Serpang-RS.png				
+Coquiperl	パールル							
+Serpang	ハンテール							
 Rosabyss	サクラビス							
 Relicanth	ジーランス							
 Lovdisc	ラブカス							
@@ -442,7 +442,7 @@ Pijako	ペラップ
 Spiritomb	ミカルゲ							
 Griknot	フカマル							
 Carmache	ガバイト							
-Carchacrok	ガブリアス	-		https://www.pokepedia.fr/images/thumb/a/ae/Carchacrok-DP.png/250px-Carchacrok-DP.png				
+Carchacrok	ガブリアス							
 Goinfrex	ゴンベ							
 Riolu	リオル							
 Lucario	ルカリオ							
@@ -464,7 +464,7 @@ Coudlangue	ベロベルト
 Rhinastoc	ドサイドン							
 Bouldeneu	モジャンボ							
 Élekable	エレキブル							
-Maganon	ブーバーン	-		https://www.pokepedia.fr/images/thumb/a/a8/Maganon-DP.png/250px-Maganon-DP.png				
+Maganon	ブーバーン							
 Togekiss	トゲキッス							
 Yanmega	メガヤンマ							
 Phyllali	リーフィア							
@@ -494,7 +494,7 @@ Arceus	アルセウス
 Victini	ビクティニ		5					
 Vipélierre	ツタージャ	-		https://www.pokepedia.fr/images/thumb/8/8d/Vip%C3%A9lierre-NB.png/250px-Vip%C3%A9lierre-NB.png				
 Lianaja	ジャノビー	-		https://www.pokepedia.fr/images/thumb/c/c0/Lianaja-NB.png/250px-Lianaja-NB.png				
-Majaspic	ジャローダ	-		https://www.pokepedia.fr/images/thumb/5/55/Majaspic-NB.png/250px-Majaspic-NB.png				
+Majaspic	ジャローダ							
 Gruikui	ポカブ	-		https://www.pokepedia.fr/images/thumb/1/1b/Gruikui-LPZA.png/250px-Gruikui-LPZA.png				
 Grotichon	チャオブー							
 Roitiflam	エンブオー							
@@ -560,7 +560,7 @@ Baggiguane	ズルッグ
 Baggaïd	ズルズキン							
 Cryptéro	シンボラー							
 Tutafeh	デスマス							
-Tutankafer	デスカーン	-		https://www.pokepedia.fr/images/thumb/9/93/Tutankafer-NB.png/250px-Tutankafer-NB.png				
+Tutankafer	デスカーン							
 Carapagos	プロトーガ	-		https://www.pokepedia.fr/images/thumb/c/c2/Carapagos-NB.png/250px-Carapagos-NB.png				
 Mégapagos	アバゴーラ	-		https://www.pokepedia.fr/images/thumb/9/91/M%C3%A9gapagos-NB.png/250px-M%C3%A9gapagos-NB.png				
 Arkéapti	アーケン							
@@ -649,7 +649,7 @@ Meloetta	メロエッタ
 Genesect	ゲノセクト							
 Marisson	ハリマロン	-	6	https://www.pokepedia.fr/images/thumb/c/ce/Marisson-XY.png/250px-Marisson-XY.png				
 Boguérisse	ハリボーグ	-		https://www.pokepedia.fr/images/thumb/5/5d/Bogu%C3%A9risse-XY.png/250px-Bogu%C3%A9risse-XY.png				
-Blindépique	ブリガロン	-		https://www.pokepedia.fr/images/thumb/e/eb/Blind%C3%A9pique-XY.png/250px-Blind%C3%A9pique-XY.png				
+Blindépique	ブリガロン							
 Feunnec	フォッコ							
 Roussil	テールナー							
 Goupelin	マフォクシー							
@@ -812,7 +812,7 @@ Badabouin	バチンキー
 Gorythmic	ゴリランダー							
 Flambino	ヒバニー							
 Lapyro	ラビフット	-		https://www.pokepedia.fr/images/thumb/8/89/Lapyro-EB.png/250px-Lapyro-EB.png				
-Pyrobut	エースバーン	-		https://www.pokepedia.fr/images/thumb/6/6d/Pyrobut-EB.png/250px-Pyrobut-EB.png				
+Pyrobut	エースバーン							
 Larméléon	メッソン	-		https://www.pokepedia.fr/images/thumb/2/2c/Larm%C3%A9l%C3%A9on-EB.png/250px-Larm%C3%A9l%C3%A9on-EB.png				
 Arrozard	ジメレオン	-		https://www.pokepedia.fr/images/thumb/e/ee/Arrozard-EB.png/250px-Arrozard-EB.png				
 Lézargus	インテレオン	-		https://www.pokepedia.fr/images/thumb/2/22/L%C3%A9zargus-EB.png/250px-L%C3%A9zargus-EB.png				
@@ -855,14 +855,14 @@ Théffroi	ヤバチャ
 Polthégeist	ポットデス							
 Bibichut	ミブリム							
 Chapotus	テブリム							
-Sorcilence	ブリムオン	-		https://www.pokepedia.fr/images/thumb/a/a9/Sorcilence-EB.png/250px-Sorcilence-EB.png				
+Sorcilence	ブリムオン							
 Grimalin	ベロバー							
 Fourbelin	ギモー							
 Angoliath	オーロンゲ				DECK			
-Ixon	タチフサグマ	-		https://www.pokepedia.fr/images/thumb/8/82/Ixon-EB.png/250px-Ixon-EB.png				
+Ixon	タチフサグマ							
 Berserkatt	ニャイキング							
 Corayôme	サニゴーン							
-Palarticho	ネギガナイト	-		https://www.pokepedia.fr/images/thumb/a/a8/Palarticho-EB.png/250px-Palarticho-EB.png				
+Palarticho	ネギガナイト							
 M. Glaquette 	バリコオル	-		https://www.pokepedia.fr/images/thumb/c/c0/M._Glaquette-EB.png/250px-M._Glaquette-EB.png				
 Tutétékri	デスバーン	-		https://www.pokepedia.fr/images/thumb/a/ab/Tut%C3%A9t%C3%A9kri-EB.png/250px-Tut%C3%A9t%C3%A9kri-EB.png				
 Crèmy	マホミル							
@@ -900,7 +900,7 @@ Cerbyllin	アヤシシ
 Hachécateur	バサギリ							
 Ursaking	ガチグマ							
 Paragruel	イダイトウ	-		https://www.pokepedia.fr/images/thumb/2/23/Paragruel_%28Femelle%29-LPA.png/250px-Paragruel_%28Femelle%29-LPA.png				
-Farfurex	オオニューラ	-		https://www.pokepedia.fr/images/thumb/a/a1/Farfurex-LPA.png/250px-Farfurex-LPA.png				
+Farfurex	オオニューラ							
 Qwilpik	ハリーマン							
 Amovénus	ラブトロス							
 Poussacha	ニャオハ		9					
@@ -1010,16 +1010,16 @@ Serpente-Eau	ウネルミナモ
 Vert-de-Fer	テツノイサハ							
 Pomdramour	カミッチュ							
 Poltchageist	チャデス							
-Théffroyable	ヤバソチャ	-		https://www.pokepedia.fr/images/thumb/3/37/Th%C3%A9ffroyable-EV.png/250px-Th%C3%A9ffroyable-EV.png				
+Théffroyable	ヤバソチャ							
 Félicanis	イイネイヌ							
-Fortusimia	マシマシラ	-		https://www.pokepedia.fr/images/thumb/e/eb/Fortusimia-EV.png/250px-Fortusimia-EV.png				
+Fortusimia	マシマシラ							
 Favianos	キチキギス							
 Ogerpon	オーガポン							
-Pondralugon	ブリジュラス	-		https://www.pokepedia.fr/images/thumb/9/9a/Pondralugon-EV.png/250px-Pondralugon-EV.png				
-Pomdorochi	カミツオロチ	-		https://www.pokepedia.fr/images/thumb/8/81/Pomdorochi-EV.png/250px-Pomdorochi-EV.png				
+Pondralugon	ブリジュラス							
+Pomdorochi	カミツオロチ							
 Feu-Perçant	ウガツホムラ							
-Ire-Foudre	タケルライコ	-		https://www.pokepedia.fr/images/thumb/2/22/Ire-Foudre-EV.png/250px-Ire-Foudre-EV.png				
-Roc-de-Fer	テツノイワオ				ZARBI   持ってないやつ ACDFJ PQVWX Z! ?			
+Ire-Foudre	タケルライコ							
+Roc-de-Fer	テツノイワオ				ZARBI   持ってないやつ CD PQVWX Z! ?			
 Chef-de-Fer	テツノカシラ							
 Terapagos	テラパゴス							
 Pêchaminus	モモワロウ							
